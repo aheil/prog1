@@ -263,4 +263,15 @@ Do not use those tools for solving your exercises. However, you can use those to
 
 ---
 
+# Pro Tips
+
+- Fail fast, fail often. Learn from compiler errors. Learn to read the errors (will be covered later in the course)
+- Practice, practice, practice
+- Use e.g. exercism.org for further practice
+- Don't use dark mode in lecture rooms, when working in pairs or during daylight
+- Ask us! We do not expect you to know the stuff, we are here so you can learn from us! 
+
+
+---
+
 # Questions?
