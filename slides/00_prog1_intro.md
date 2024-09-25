@@ -126,7 +126,7 @@ How we try to run this course...
   - ... also spend time together (pair programming) so solve problems 
   - ... experience quite some times with a lot of frustration
   - ... spend a lot of time debugging things and getting frustrated (your entire career, tbh)  
-- Wee will support you in overcoming your frustration 
+  - We will support you in overcoming your frustration 
 
 ---
 
@@ -154,7 +154,7 @@ Mondays will be structured as following:
 a) Lectures, introduction new topics
 b) Live Coding (and probably live fails alike 😁)
 c) Practicing by yourself 
-d) continue with a)
+d) Continue with a)
 
 ---
 
@@ -163,8 +163,8 @@ d) continue with a)
 
 Mondays will be structured as following:
 
-a) Lecture as introduction to topics
-b) Live Coding an probably live fails alike
+a) Lectures, introduction new topics
+b) Live Coding (and probably live fails alike 😁)
 c) Practicing by yourself 
 d) Continue with a)
 
@@ -178,8 +178,8 @@ Mondays will be structured as following:
 
 While not 4:45 pm do
 &nbsp;&nbsp;&nbsp;&nbsp;a) Lecture as introduction to topics
-&nbsp;&nbsp;&nbsp;&nbsp;b) Live Coding an probably live fails alike
-&nbsp;&nbsp;&nbsp;&nbsp;c)Practicing by yourself 
+&nbsp;&nbsp;&nbsp;&nbsp;b) Live Coding (and probably live fails alike 😁)
+&nbsp;&nbsp;&nbsp;&nbsp;c) Practicing by yourself 
 &nbsp;&nbsp;&nbsp;&nbsp;d) Continue with a)
 
 Wow! We just created our first loop. 👌
@@ -196,7 +196,7 @@ Wow! We just created our first loop. 👌
 
 - Microsoft Teams chat
 
-- Our goal is to teach you programming and making programming fun
+- Our goal is to teach you programming and making programming fun 🥳
 
 ---
 
@@ -221,13 +221,13 @@ What to do now...
   - [https://t.ly/kIy2e](https://ilias.hs-heilbronn.de/ilias.php?baseClass=ilrepositorygui&ref_id=844656)  
 
 - Sign up for the Microsoft Teams ![width:100px](image.png)
-[https://t.ly/_aRgb](https://teams.microsoft.com/l/team/19%3AKCiR-sH987yg1NGGTFXJ8Qp8idZ7okNRO1yiGVbaNcg1%40thread.tacv2/conversations?groupId=1b7b271d-5a88-45c7-bf32-c6b151344767&tenantId=fe73884d-8d6f-4d22-94ac-b1d52fd5495f) 
+  - [https://t.ly/_aRgb](https://teams.microsoft.com/l/team/19%3AKCiR-sH987yg1NGGTFXJ8Qp8idZ7okNRO1yiGVbaNcg1%40thread.tacv2/conversations?groupId=1b7b271d-5a88-45c7-bf32-c6b151344767&tenantId=fe73884d-8d6f-4d22-94ac-b1d52fd5495f) 
 
 ---
 
 # Preparation (homework)
 
-Until monday, follow the kick off instructions in ILIAS
+Until Monday, follow the kick off instructions in ILIAS
 
 - Install the editor (Visual Studio Code)
 - Install Java
