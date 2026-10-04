@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: prog1
+  structure:
+    - type: space
+      key: space-1
+      title: Programmieren 1
+      path: programmieren-1
+      default: true
+      content:
+        directory: ./programmieren-1
