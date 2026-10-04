@@ -1,6 +1,6 @@
-# Einführung
+# Introduction
 
-## Programmieren
+## Programming
 
 **Aus welchem Grund programmieren wir überhaupt einen Computer**? Die Antwort ist einfach, wir möchten, dass der **Computer etwas für uns macht** - ob es nun um die Berechnung von Werten, dem Zeichnen eines Bildes oder der Bearbeitung eines Textes geht. In der  Regel programmieren wir etwas, das es anderen Personen, die eben einen Computer nicht programmieren können, eine **Arbeit mit dem Computer (leichter) ausführen** Können.&#x20;
 

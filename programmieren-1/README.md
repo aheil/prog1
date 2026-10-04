@@ -1,10 +1,11 @@
 ---
 description: >-
-  Dieses Repository ist Teil des Moduls Programmieren 1 im Studiengang Software
-  Engineering Bachelor der Fakultät Informatik an der Hochschule Heilbronn.
+  This repository is part of the Programming 1 module in the Bachelor's Degree
+  Program in Software Engineering at the Faculty of Computer Science of
+  Heilbronn University
 ---
 
-# Kursübersicht
+# Course Overview
 
-Auch mit dem Aufkommen von KI-gestützter Software-Entwicklung und Vibe-Coding bleibt es wichtig, selbst programmieren zu können. KI-Tools können zwar Code generieren und natürlich sprachliche Aussagen in Code überführen, aber sie ersetzen nicht das Verständnis, wie Software funktioniert, warum bestimmte Lösungen besser sind als andere, wie man Fehler erkennt und wie komplizierte Anforderungen sauber umgesetzt werden können.
+Even with the rise of AI-assisted software development and vibe coding, it remains important to be able to program independently. While AI tools can generate code and translate natural language instructions into software, they do not replace a fundamental understanding of how software works, why certain solutions are better than others, how to identify and fix errors, or how to implement complex requirements in a clean and maintainable way.
 

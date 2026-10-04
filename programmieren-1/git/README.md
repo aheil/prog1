@@ -1,4 +1,8 @@
-# Einheit 1
+---
+hidden: true
+---
+
+# Git
 
 ## Voraussetzungen
 
