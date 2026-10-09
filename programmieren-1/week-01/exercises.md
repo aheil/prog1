@@ -132,7 +132,6 @@ public class Broken {
         System.out.println("Start")
         system.out.println("Middle");
         System.out.println("End);
-    }
 }
 ```
 
