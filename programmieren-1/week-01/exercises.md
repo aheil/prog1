@@ -77,7 +77,7 @@ Compile `Hello.java`, delete `Hello.class`, then run `java Hello`. Read the erro
 
 #### Ex 1.10 (E): Source-file mode
 
-Run `java Hello.java` directly. Compare it with `javac` + `java` and note what is missing afterwards.
+Delete the `Hello.class` file. Run `java Hello.java` directly. Compare it with `javac` + `java` and note what is missing afterwards. Why is there a different behavior difference?
 
 #### Ex 1.11 (E): Code outside the class
 
@@ -178,6 +178,6 @@ Break a classmate's program with one subtle change. They find it using only the 
 1. **H1.1:** Write `About.java`, which prints a 6-line self-introduction (name, hometown, hobby, favourite food, why you study this, one fun fact).
 2. **H1.2:** Write `Table.java`, that prints a table with a header and 3 rows, using `\t` for alignment.
 3. **H1.3:** Write `Ascii.java`, that Draws a larger ASCII-art figure (at least 8 lines), such as a tree or a rocket.
-4. **H1.4:** Write `Errors.java`  that deliberately cause 3 different compile errors. Above each one, write a comment in your file explaining what the compiler said.
-5. **H1.5 (bonus):** Write `Lyrics.java`  that prints the lyrics of a short song verse using only `println`. Note what you wish you had to reduce the repetition. This leads into variables and loops.
+4. **H1.4:** Write `Errors.java` that deliberately cause 3 different compile errors. Above each one, write a comment in your file explaining what the compiler said.
+5. **H1.5 (bonus):** Write `Lyrics.java` that prints the lyrics of a short song verse using only `println`. Note what you wish you had to reduce the repetition. This leads into variables and loops.
 6. Finish any open extension (E) and challenge (X) exercises from the sessions.
