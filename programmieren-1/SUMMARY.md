@@ -19,7 +19,7 @@
 #  * [Session 1 quiz](week-03/week03_quiz1.md)
 #  * [Session 2 quiz](week-03/week03_quiz2.md)
 #  * [Unit tests](week-03/tests/README.md)
-#* [Week 04](week-04/README.md)
+* [Week 04](week-04/README.md)
   * [Exercises](week-04/exercises.md)
   * [Handout](week-04/handout.md)
 #  * [Session 1 quiz](week-04/week04_quiz1.md)
