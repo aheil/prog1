@@ -80,17 +80,15 @@ Create `src/Hello.java` with the class `Hello`. It prints `Hello, Git!`. Run `gi
 
 **Check:** `src/Hello.java` is committed; the first output line is `Hello, Git!`.
 
-#### Checkpoint: How to use the pipeline
-
 Before you proceed, check if the pipeline finished sucesfully.&#x20;
 
 Open your browser and navigate to your repository in GitLab. If not done yet, it is time to bookmark it in your browser.
 
-#### Ex 1.4 (C): Second commit
 
-Change `Hello` so that it prints a second line, `I am learning version control.` Run `git diff` and read the output. Stage, commit, and push.
 
-**Check:** the output is exactly `Hello, Git!` and `I am learning version control.`; `Hello.java` appears in at least two commits.\
+#### Checkpoint: How to use the pipeline
+
+\
 \
 On the left sidebar navigate to _Build / Pipelines:_
 
@@ -116,9 +114,15 @@ This file will show you a overview of your current exercises:&#x20;
 
 Now contionue with the exercises.
 
+#### Ex 1.4 (C): Second commit
+
+Change `Hello` so that it prints a second line, `I am learning version control.` Run `git diff` and read the output. Stage, commit, and push.
+
+**Check:** the output is exactly `Hello, Git!` and `I am learning version control.`; `Hello.java` appears in at least two commits.
+
 #### Ex 1.5 (C): Ignore compiled files
 
-Compile your program so that `Hello.class` appears. Check that `git status` lists it. Create `.gitignore` with the lines `*.class` and `out/`, check again that the class file is gone from `git status`, commit `.gitignore`, and push. If you committed a `.class` file by mistake, remove it with `git rm --cached <file>`.
+Compile your program so that `Hello.class` appears. Check that `git status` lists it. Create `.gitignore` with the lines `*.class` , check again that the class file is gone from `git status`, commit `.gitignore`, and push. If you committed a `.class` file by mistake, remove it with `git rm --cached <file>`.
 
 **Check:** `.gitignore` is committed and contains `*.class`; no `.class` file is tracked.
 
