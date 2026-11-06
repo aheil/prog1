@@ -122,7 +122,7 @@ Change `Hello` so that it prints a second line, `I am learning version control.`
 
 #### Ex 1.5 (C): Ignore compiled files
 
-Compile your program so that `Hello.class` appears. Check that `git status` lists it. Create `.gitignore` with the lines `*.class` , check again that the class file is gone from `git status`, commit `.gitignore`, and push. If you committed a `.class` file by mistake, remove it with `git rm --cached <file>`.
+Compile your program so that `Hello.class` appears. Check that `git status` lists it. Create `.gitignore` file in the week04 folder with the lines `*.class` , check again that the class file is gone from `git status`, commit `.gitignore`, and push. If you committed a `.class` file by mistake, remove it with `git rm --cached <file>`.
 
 **Check:** `.gitignore` is committed and contains `*.class`; no `.class` file is tracked.
 
