@@ -263,11 +263,20 @@ Read `x`. Apply `x += 5;`, `x *= 2;`, `x -= 1;`, `x %= 4;` in this order, printi
 
 #### Ex 2.12 (X): Collatz
 
-Read a positive number. Repeat: if it is even, halve it, otherwise compute `3n + 1`. Print the first line with all values, separated by spaces, until you reach `1`. Print a second line `Steps: N`. For `6`:
+Read a positive number. Repeat: if it is even, halve it, otherwise compute `3n + 1`. After reading the number, print the first line with all values including the number provided as input, separated by spaces, until you reach `1`. (there is no space at the end of the line). Print a second line `Steps: N`. For `6`:
 
 ```
+6
 6 3 10 5 16 8 4 2 1
 Steps: 8
+```
+
+For 1 you have to deal with a special case as 1 cannot be diveded by zero. Try not to hard code this output deal with this case in your program logic.
+
+```
+1
+1
+Steps: 0
 ```
 
 ***
